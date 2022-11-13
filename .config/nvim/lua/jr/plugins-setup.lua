@@ -65,6 +65,10 @@ return packer.startup(function(use)
     use("onsails/lspkind.nvim")
 
     use("windwp/nvim-autopairs")
+
+    -- rust
+    use("simrat39/rust-tools.nvim")
+
     if packer_bootstrap then
         require("packer").sync()
     end
