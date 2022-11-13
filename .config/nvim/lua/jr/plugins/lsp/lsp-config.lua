@@ -70,7 +70,7 @@ lspconfig["marksman"].setup({
     on_attach = on_attach
 })
 
-lspconfig["sumneko"].setup({
+lspconfig["sumneko_lua"].setup({
     capabilities = capabilities,
     on_attach = on_attach,
     settings = {

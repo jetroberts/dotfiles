@@ -183,6 +183,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/joshua.c.roberts/.local/share/nvim/site/pack/packer/start/typescript.nvim",
     url = "https://github.com/jose-elias-alvarez/typescript.nvim"
+  },
+  ["vim-moonfly-colors"] = {
+    loaded = true,
+    path = "/Users/joshua.c.roberts/.local/share/nvim/site/pack/packer/start/vim-moonfly-colors",
+    url = "https://github.com/bluz71/vim-moonfly-colors"
   }
 }
 

@@ -27,6 +27,7 @@ end
 return packer.startup(function(use)
     use("wbthomason/packer.nvim")
     use("folke/tokyonight.nvim")
+    use("bluz71/vim-moonfly-colors")
     use("nvim-lua/plenary.nvim")
     use {
      'nvim-tree/nvim-tree.lua',
